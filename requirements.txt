@@ -1,2 +1,3 @@
 openai
 streamlit
+langchain==0.0.308
