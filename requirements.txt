@@ -1,4 +1,4 @@
 streamlit
 openai
 langchain
-pillow --no-binary :all:
+pillow  # Necesario si trabajas con imágenes
