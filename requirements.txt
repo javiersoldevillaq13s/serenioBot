@@ -1,3 +1,2 @@
-streamlit==1.25.0  # Asegúrate de tener una versión estable reciente
-openai==0.27.8     # Biblioteca oficial de OpenAI
-pillow==9.5.0      # Si necesitas procesamiento de imágenes
+streamlit
+replicate
