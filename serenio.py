@@ -9,7 +9,7 @@ st.set_page_config(
 )
 # Configuración del modelo LLM
 llm = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0,
-                 api_key="sk-MZuyBPYKm6WUzOQ-oZlfceA55tc_ACZCLOB85QlvGDT3BlbkFJu3y_pVgZo2H3d5QDUfq7xb3dcGfhXiFtNKIsTD408A")
+                 api_key="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")
 
 # Título de la aplicación
 st.title("🤖 Serenio Bot")
